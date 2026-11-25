@@ -1,0 +1,5 @@
+2026-11-25T06:21:31Z
+
+The host clock above is UTC. Contest opened 2026-11-25T00:00Z.
+main.py copies the committed pre-rendered PNG using only stdlib; Pillow is local build-time only.
+All headlines come from live 25 Nov 2026 reports listed in SOURCES.txt.

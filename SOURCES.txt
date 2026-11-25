@@ -1,0 +1,15 @@
+make.fun news-image-20261125
+=============================
+
+Every headline rendered in entry.png comes from reporting published on
+25 November 2026. Source pages checked while compiling the image:
+
+- Reuters World News Summary (25 Nov): https://www.devdiscourse.com/article/international/4011704-reuters-world-news-summary
+- The World.fyi, top stories of Wednesday 25 Nov 2026: https://theworld.fyi/today
+- Xinhua Daily World Briefing, Nov. 25: https://english.news.cn/20261125/bbf3f23aece142ec814e279b35d40a21/c.html
+- World Watch digest, 25 Nov 2026: https://worldwatch.media/en/digest/2026-11-25
+- Kyodo News Digest, Nov. 25: https://english.kyodonews.net/articles/-/92507
+- Yonhap News Summary, 25 Nov: https://en.yna.co.kr/view/AEN20261125004900320
+- AfricaFrontPage, 25 Nov: https://www.africafrontpage.com/today
+- AFP Colombia hostage standoff, 25 Nov: https://www.afp.com/en/colombia-president-arrives-cartagena-hostage-standoff
+- Naija News headlines, 25 Nov: https://www.naijanews.com/2026/11/25/nigerian-newspaper-headlines-25th-november-2026/
